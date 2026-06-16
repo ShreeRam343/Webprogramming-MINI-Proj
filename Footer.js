@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = ({ length }) => {
   return (
-    <footer id="copy">The total number of items is {length}</footer>
+    <footer id="copy">The total number  items is {length}</footer>
   );
 }
 
